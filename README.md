@@ -1,2 +1,4 @@
 # hello-world
-his repository is for practicing the GitHub Flow
+This repository is for practicing the GitHub Flow
+
+Hello My name is Muhammad Muslim Muzammil
